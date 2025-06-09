@@ -33,7 +33,7 @@ First, distinguish between sedimentary, igneous, and metamorphic rocks.
 
 Then, perform fine-grained classification within each category.
 
-##📬 Contact
+## 📬 Contact
 For questions or suggestions, feel free to open an issue or contact the project maintainer.
 
 
