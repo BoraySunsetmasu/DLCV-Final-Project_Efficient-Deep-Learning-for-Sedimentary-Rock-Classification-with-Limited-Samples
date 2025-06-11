@@ -1,0 +1,20 @@
+name: sedimentary-rock-classification
+channels:
+  - defaults
+  - conda-forge
+  - pytorch
+
+dependencies:
+  - python=3.12
+  - pip
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - opencv
+  - pillow
+  - tqdm
+  - pytorch
+  - torchvision
+  - pip:
+      - autoaugment
